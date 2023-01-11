@@ -33,4 +33,4 @@ flutter run
 
 |           Image Preview            |            Gif Preview             |
 |:----------------------------------:|:----------------------------------:|
-| <img src="sample.png" width="350"> | <img src="sample.png" width="350"> |
+| <img src="sample.png" width="350"> | <img src="sample.gif" width="350"> |
